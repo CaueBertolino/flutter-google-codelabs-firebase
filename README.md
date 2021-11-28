@@ -1,1 +1,1 @@
-# flutter-google-codelabs-firebase
+# flutter-google-codelabs-photos
